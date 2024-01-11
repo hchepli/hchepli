@@ -10,16 +10,16 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueChepli">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dnzlucas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HenriqueChepli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/HenriqueChepli">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnzlucas&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/dnzlucas/dnzlucas"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueChepli&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/HenriqueChepli/HenriqueChepli"/>
 </a>
   
 </div>
 
 ##
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dnzlucas&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/dnzlucas/dnzlucas)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueChepli&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/HenriqueChepli/HenriqueChepli)
 
 <div style="display: inline_block width: 45%"><br>
   <img align="center" alt="Chepli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,10 +32,10 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/dnzlucas/)
-<p><img src="https://profile-counter.glitch.me/{dnzlucas}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github.com/HenriqueChepli/)
+<p><img src="https://profile-counter.glitch.me/{HenriqueChepli}/count.svg" /></p> 
 
 </div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
 
-![snake gif](https://github.com/dnzlucas/dnzlucas/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/HenriqueChepli/HenriqueChepli/blob/output/github-contribution-grid-snake-dark.svg)
